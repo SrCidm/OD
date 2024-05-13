@@ -1,4 +1,4 @@
-#OD (Ofertas Destacadas)
+OD (Ofertas Destacadas)
 =================
 
 [](https://github.com/srcidm)
